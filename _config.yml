@@ -1,0 +1,29 @@
+name: Chez Amstein
+favicon: null
+layout_spectrum: 0.9423661348409951
+typography_spectrum: 0.4738100441172719
+title: Musings of a 50 something guy from Colorado
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7963609311264008
+  lightness: 0.15337664121761918
+  saturation: 0.5411635679192841
+  rhythmicContrast: 0.10041672876104712
+purpose: []
