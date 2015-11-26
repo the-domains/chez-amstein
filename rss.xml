@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Musings of a 50 something guy from Colorado]]></title>
+        <description><![CDATA[Musings of a 50 something guy from Colorado]]></description>
+        <link>https://thegrid.ai/chez-amstein/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 Nov 2015 00:30:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chez-amstein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>First post on the new website the Grid</p></article>]]></description>
+            <link>https://thegrid.ai/chez-amstein/first-post/index.html</link>
+            <guid isPermaLink="false">42eedca4-02b2-415a-90e8-8feae9b9c8c1</guid>
+            <pubDate>Thu, 26 Nov 2015 00:30:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
